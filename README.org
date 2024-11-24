@@ -81,9 +81,9 @@
 
 ** Collision classes
 
-Collision classes allow you to set filters to some colliders.
-Collision classes in breezelfield is just like windfield.
-If you want to the colldier A ignores collider B, you would do:
+Collision classes allow you to set filters to colliders.
+Collision classes in breezefield is just like windfield.
+If you want to the collider A ignores collider B (or collider B ignores collider A), you would do:
 
 #+BEGIN_SRC lua
 local bf = require "breezefield"
